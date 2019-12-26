@@ -1,0 +1,2 @@
+# setUndefinedTargetValidatesAllSubjects_example
+Example code for using setUndefinedTargetValidatesAllSubjects in RDF4J
